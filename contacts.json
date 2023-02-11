@@ -1,7 +1,7 @@
 { "contacts": [
     { "name": "adam", "email": "adam@mit.edu" },
     { "name": "anne", "email": "anne@mit.edu" },
-    { "name": "fred", "email": "fred@mit.edu" },
-    { "name": "john", "email": "johnr@mit.edu" }
+    { "name": "abel", "email": "abel@mit.edu" },
+    { "name": "john", "email": "jrw@mit.edu" }
   ]
 }
